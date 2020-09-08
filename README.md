@@ -1,5 +1,5 @@
 # React-Components-Insta-Clone
-hello
+hello world
 ## Composing React Components and Passing Data Via Props
 
 ## Introduction
